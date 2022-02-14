@@ -1,0 +1,9 @@
+.mainCuenta {
+    background-image: url("https://image.shutterstock.com/image-photo/concept-barber-stylish-vintage-shop-260nw-1564378435.jpg");
+    width: 100%;
+    height: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
